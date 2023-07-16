@@ -1,1 +1,7 @@
-[{"username":"tannhppph28818@fpt.edu.vn","password":"aaa","id":"1"}]
+{
+  "username": "tannhppph28818@fpt.edu.vn",
+  "password": "aaa",
+  "full_name": "Nguyen Huy Phuoc Tan",
+  "id_user": "0",
+  "expired": false
+}
