@@ -1,4 +1,14 @@
-{
-  "username": "tannhppph2881",
-  "password": "aaa"
-}
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "username": "tannhpph28818@fpt.edu.vn",
+    "password": "aaa"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "username": "janesmith",
+    "password": "password456"
+  },
+]
