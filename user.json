@@ -1,14 +1,9 @@
 [
   {
-    "id": 1,
-    "name": "Nguyen Huy Phuoc Tan",
-    "username": "tannhpph28818@fpt.edu.vn",
-    "password": "aaa"
-  },
-  {
-    "id": 2,
-    "name": "Nguyen Thi Phuong Lan",
-    "username": "lanxinhgai@gmail.com",
-    "password": "aaa"
-  },
+    "plan": "Trial3",
+    "iatDate": "2022-03-27T10:19:51.303Z",
+    "expDate": "2022-03-30T00:00:00.000Z",
+    "isGift": 1,
+    "userType": "Premium"
+},
 ]
