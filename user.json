@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "name": "John Doe",
+    "name": "Nguyen Huy Phuoc Tan",
     "username": "tannhpph28818@fpt.edu.vn",
     "password": "aaa"
   },
   {
     "id": 2,
-    "name": "Jane Smith",
-    "username": "janesmith",
-    "password": "password456"
+    "name": "Nguyen Thi Phuong Lan",
+    "username": "lanxinhgai@gmail.com",
+    "password": "aaa"
   },
 ]
