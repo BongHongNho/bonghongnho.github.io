@@ -1,6 +1,11 @@
 {
-    "username": "admin",
-    "password": "admin",
-    "isGift": 1,
-    "userType": "Premium"
-},
+  "user": [
+    {
+      "username": "admin",
+      "password": "admin",
+      "userType": "ADMIN",
+      "expired": "Lifetime",
+    },
+  ],
+  "count": 1
+}
