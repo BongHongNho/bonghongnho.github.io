@@ -1,10 +1,8 @@
 {   "dialogTitle": "New update available",
     "dialogMessage": "Discover the latest features and enhancements, update now to enjoy a smoother and more secure experience with our app, don't miss out!",
-    "latestBuild": "972102029",
+    "latestBuild": "99999999",
     "latestVersion": "4.135.0",
     "updateLink": "https://an1.com/2449-dead-target-zombie-mod-apk.html",
     "showUpdate": true,
-    "showActivation": true,
-    "fixedOutDateConfig": 4102419599000,
   }
   
